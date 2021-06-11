@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ls -l -a or ls -a -l or ls -la or ls -al
