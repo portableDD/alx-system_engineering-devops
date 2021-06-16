@@ -1,1 +1,1 @@
-Explaining what every script does
+The file in this direcory contains shell I/O Redirection scripts
